@@ -1,3 +1,13 @@
+# Adding In Custom Directives (5/6/23)
+
+What I did to start:
+	npx create-react-app feedback-app --use-npm
+	cd feedback-app
+	(then in a different terminal) npm start
+
+That will create the initial app folder that contains all the source code, as well as start the development sever,
+whose output will be in the terminal you ran "npm start" in.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
